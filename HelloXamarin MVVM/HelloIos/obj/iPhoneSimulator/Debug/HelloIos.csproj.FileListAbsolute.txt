@@ -1,0 +1,41 @@
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\bin\iPhoneSimulator\Debug\HelloIos.exe
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\bin\iPhoneSimulator\Debug\HelloIos.pdb
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\bin\iPhoneSimulator\Debug\Data.dll
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\bin\iPhoneSimulator\Debug\Data.pdb
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\bin\iPhoneSimulator\Debug\Data.dll.mdb
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\obj\iPhoneSimulator\Debug\HelloIos.csprojResolveAssemblyReference.cache
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\obj\iPhoneSimulator\Debug\HelloIos.exe
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\obj\iPhoneSimulator\Debug\HelloIos.pdb
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\obj\iPhoneSimulator\Debug\HelloIos.exe.mdb
+C:\Users\lbugn\Desktop\HelloXamarin\HelloIos\bin\iPhoneSimulator\Debug\HelloIos.exe.mdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\HelloIos.exe
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\HelloIos.pdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\Data.dll
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.dll
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\Data.pdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.xml
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\obj\iPhoneSimulator\Debug\HelloIos.csprojResolveAssemblyReference.cache
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\obj\iPhoneSimulator\Debug\HelloIos.exe
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\obj\iPhoneSimulator\Debug\HelloIos.pdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\obj\iPhoneSimulator\Debug\HelloIos.exe.mdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\HelloIos\bin\iPhoneSimulator\Debug\HelloIos.exe.mdb

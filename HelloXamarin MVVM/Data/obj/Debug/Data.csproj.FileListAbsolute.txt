@@ -1,0 +1,41 @@
+D:\GitHub\Samples\sample-2017-vslivelasvegas\HelloXamarin\Data\bin\Debug\Data.dll
+D:\GitHub\Samples\sample-2017-vslivelasvegas\HelloXamarin\Data\bin\Debug\Data.pdb
+D:\GitHub\Samples\sample-2017-vslivelasvegas\HelloXamarin\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\GitHub\Samples\sample-2017-vslivelasvegas\HelloXamarin\Data\obj\Debug\Data.dll
+D:\GitHub\Samples\sample-2017-vslivelasvegas\HelloXamarin\Data\obj\Debug\Data.pdb
+D:\GitHub\Samples\sample-2017-vslivelasvegas\HelloXamarin\Data\obj\Debug\Data.dll.mdb
+D:\GitHub\Samples\sample-2017-vslivelasvegas\HelloXamarin\Data\bin\Debug\Data.dll.mdb
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\Data.dll
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\Data.pdb
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\lbugn\Desktop\HelloXamarin\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\lbugn\Desktop\HelloXamarin\Data\obj\Debug\Data.dll
+C:\Users\lbugn\Desktop\HelloXamarin\Data\obj\Debug\Data.pdb
+C:\Users\lbugn\Desktop\HelloXamarin\Data\obj\Debug\Data.dll.mdb
+C:\Users\lbugn\Desktop\HelloXamarin\Data\bin\Debug\Data.dll.mdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\Data.dll
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\Data.pdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\obj\Debug\Data.dll
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\obj\Debug\Data.pdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\obj\Debug\Data.dll.mdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\Data.dll.mdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\obj\Debug\Data.dll.mdb
+C:\Users\lbugn\Desktop\HelloXamarin MVVM\Data\bin\Debug\Data.dll.mdb
