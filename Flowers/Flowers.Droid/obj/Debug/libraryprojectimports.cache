@@ -2,8 +2,8 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>D:\GitHub\Samples\sample-crossplatform-flowers\Flowers.Droid\obj\Debug\__library_projects__\GalaSoft.MvvmLight.Platform.AndroidSupport\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>D:\GitHub\Samples\sample-crossplatform-flowers\Flowers.Droid\obj\Debug\__library_projects__\GalaSoft.MvvmLight.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lbugn\Desktop\Flowers\Flowers.Droid\obj\Debug\__library_projects__\GalaSoft.MvvmLight.Platform.AndroidSupport\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lbugn\Desktop\Flowers\Flowers.Droid\obj\Debug\__library_projects__\GalaSoft.MvvmLight.Platform\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\GalaSoft.MvvmLight.Platform.AndroidSupport\library_project_imports\assets</ResolvedAssetDirectory>
@@ -11,7 +11,7 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>D:\GitHub\Samples\sample-crossplatform-flowers\Flowers.Droid\obj\Debug\__library_projects__\GalaSoft.MvvmLight.Platform.AndroidSupport.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>D:\GitHub\Samples\sample-crossplatform-flowers\Flowers.Droid\obj\Debug\__library_projects__\GalaSoft.MvvmLight.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lbugn\Desktop\Flowers\Flowers.Droid\obj\Debug\__library_projects__\GalaSoft.MvvmLight.Platform.AndroidSupport.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lbugn\Desktop\Flowers\Flowers.Droid\obj\Debug\__library_projects__\GalaSoft.MvvmLight.Platform.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
