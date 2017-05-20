@@ -40,6 +40,7 @@ namespace HelloAndroid.ViewModel
                     {
                         try
                         {
+                            Result = "Please wait";
                             Result = await _service.Refresh();
                         }
                         catch (Exception ex)

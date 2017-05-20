@@ -8,7 +8,8 @@ namespace HelloAndroid
     [Activity(Label = "HelloAndroid1", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
-        private int _counter;
+        private Button _button;
+        private TextView _text;
 
         protected override void OnCreate(Bundle bundle)
         {
@@ -17,11 +18,12 @@ namespace HelloAndroid
             // Set our view from the "main" layout resource
             SetContentView (Resource.Layout.Main);
 
-            var button = FindViewById<Button>(Resource.Id.MyButton);
+            _button = FindViewById<Button>(Resource.Id.MyButton);
 
-            button.Click += async (s, e) =>
+            _button.Click += async (s, e) =>
             {
-                var text = FindViewById<TextView>(Resource.Id.MyText);
+                _text = FindViewById<TextView>(Resource.Id.MyText);
+                _text.Text = "Please wait";
                 var client = new HttpClient();
 
                 var html = await client.GetStringAsync("https://www.youtube.com/watch?v=_ntWKJoqsLQ");
@@ -32,7 +34,7 @@ namespace HelloAndroid
                 html = html.Substring(index);
                 var index2 = html.IndexOf("<");
                 html = html.Substring(0, index2);
-                text.Text = html;
+                _text.Text = html;
             };
         }
     }
