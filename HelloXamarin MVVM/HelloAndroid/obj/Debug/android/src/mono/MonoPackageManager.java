@@ -104,24 +104,8 @@ class MonoPackageManager_Resources {
 		"GalaSoft.MvvmLight.Extras.dll",
 		"GalaSoft.MvvmLight.Platform.dll",
 		"Microsoft.Practices.ServiceLocation.dll",
-		"System.Runtime.dll",
-		"System.Resources.ResourceManager.dll",
-		"System.Diagnostics.Debug.dll",
-		"System.Threading.Tasks.dll",
-		"System.Linq.Expressions.dll",
-		"System.Reflection.dll",
-		"System.ObjectModel.dll",
-		"System.Collections.dll",
-		"System.Threading.dll",
-		"System.Linq.dll",
-		"System.Reflection.Extensions.dll",
-		"System.ComponentModel.dll",
-		"System.Globalization.dll",
-		"System.Collections.Concurrent.dll",
-		"System.Runtime.InteropServices.dll",
-		"System.Runtime.Extensions.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_24";
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_23";
 }
