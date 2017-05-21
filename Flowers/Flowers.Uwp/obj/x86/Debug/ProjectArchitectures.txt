@@ -1,2 +1,0 @@
-C:\Users\lbugn\Desktop\Flowers\Flowers.Data\Flowers.Data.csproj;neutral
-C:\Users\lbugn\Desktop\Flowers\Flowers.Uwp\Flowers.Uwp.csproj;x86

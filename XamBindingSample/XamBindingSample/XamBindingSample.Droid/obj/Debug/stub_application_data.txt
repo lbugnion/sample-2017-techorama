@@ -1,2 +1,0 @@
-android.app.Application
-XamBindingSample.Droid.XamBindingSample.Droid

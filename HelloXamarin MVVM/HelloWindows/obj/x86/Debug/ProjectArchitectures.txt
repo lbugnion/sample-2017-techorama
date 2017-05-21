@@ -1,2 +1,0 @@
-C:\Users\lbugn\Desktop\HelloXamarin\Data\Data.csproj;neutral
-C:\Users\lbugn\Desktop\HelloXamarin\HelloWindows\HelloWindows.csproj;x86

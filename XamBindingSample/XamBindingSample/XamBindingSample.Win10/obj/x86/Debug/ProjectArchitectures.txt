@@ -1,2 +1,0 @@
-D:\GitHub\Samples\sample-2016-evolve\XamBindingSample\XamBindingSample.Data\XamBindingSample.Data.csproj;neutral
-D:\GitHub\Samples\sample-2016-evolve\XamBindingSample\XamBindingSample.Win10\XamBindingSample.Win10.csproj;x86
