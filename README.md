@@ -1,4 +1,4 @@
-# Techorama 2017, Antwerp, Belgium
+# Building Truly Universal Applications with Windows, Xamarin and MVVM 
 
 My code samples for the Techorama 2017 conference in Antwerp, Belgium
 
@@ -6,8 +6,7 @@ My code samples for the Techorama 2017 conference in Antwerp, Belgium
 
 You can see the details and the slides here:
 
-Building Truly Universal Applications with Windows, Xamarin and MVVM 
-http://galasoft.ch/presentations/presentationdetails.cshtml?name=TODO
+http://galasoft.ch/presentations/presentationdetails.cshtml?name=2017012
 
 # Content
 
